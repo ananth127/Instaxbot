@@ -48,9 +48,6 @@ The application will be available at http://localhost:5173/
 
 npm run build
 
-📄 License
-
-This project is licensed under the MIT License.
 
 Feel free to contribute, report issues, or suggest features! 😊
 
